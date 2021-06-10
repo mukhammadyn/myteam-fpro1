@@ -74,7 +74,7 @@ img {
   background-image: url(../img/icon/delivering-top-bg.svg),
   url(../img/icon/delivering-bottom-bg.svg);
   background-repeat: no-repeat;
-  background-position: left top, right calc(90% + 155px);
+  background-position: left calc(50% - 602px) top, calc(50% + 575px) calc(50% + 371px);
 }
 
 /* TITLE */
